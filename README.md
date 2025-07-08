@@ -1,5 +1,4 @@
-# metric_risk_evaluator
-Code and synthetic dataset for AI-based SQL privacy risk evaluation.
+
 # Metric Risk Evaluator
 
 This repository contains the Python code and a synthetic dataset used to evaluate the privacy risk of SQL-based metric queries in healthcare BI environments.
