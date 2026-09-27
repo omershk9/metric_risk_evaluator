@@ -1,7 +1,7 @@
 
 # Metric Risk Evaluator
 
-This repository contains the Python code and a synthetic dataset used to evaluate the privacy risk of SQL-based metric queries in healthcare BI environments.
+This repository contains the Python code and a synthetic dataset used to evaluate the privacy risk of SQL-based metric queries in healthcare BI environments. Contains the code in folder.
 
 ## Files
 - `synthetic_hospital_data.csv`: A 200-row synthetic hospital table.
